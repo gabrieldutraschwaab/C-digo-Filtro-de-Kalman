@@ -1,0 +1,84 @@
+# ==========================================
+# Unity
+# ==========================================
+
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+ExportedObj/
+Il2CppOutputProject/
+
+Build/
+Builds/
+
+ServerData/
+
+crash.log
+sysinfo.txt
+
+# ==========================================
+# Visual Studio / Rider / VS Code
+# ==========================================
+
+*.sln
+*.csproj
+*.unityproj
+
+*.suo
+*.user
+*.userprefs
+*.DotSettings.user
+
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+.vs/
+.vscode/
+.idea/
+
+.history/
+
+# ==========================================
+# Sistema Operacional
+# ==========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Mobile Builds
+# ==========================================
+
+*.apk
+*.aab
+*.ipa
+
+# ==========================================
+# Arquivos temporários
+# ==========================================
+
+*.tmp
+*.bak
+
+# ==========================================
+# Unity Collaborate
+# ==========================================
+
+.collabignore
+
+# ==========================================
+# Não ignorar:
+# Assets/
+# Packages/
+# ProjectSettings/
+# ==========================================
